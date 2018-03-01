@@ -1,7 +1,6 @@
-## geekysrm.github.io
+## geekysrm.github.io/blog
 
-My portfolio website
-
+My Blog
 ### License: MIT
 
 #### Made by
